@@ -2,7 +2,7 @@
 layout:     post
 title:      "-使用jekyll github搭建博客"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2022-05-06 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 tags:
