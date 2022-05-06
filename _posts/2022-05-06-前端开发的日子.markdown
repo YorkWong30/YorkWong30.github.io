@@ -1,15 +1,17 @@
 ---
 layout:     post
-title:      "-前端开发的日子"
-subtitle:   " \"前端开发的日子\""
-date:       2022-05-06 18:50:00
+title:      "Example Post"
+subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
+date:       2022-05-06
 author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-js-version.jpg"
 tags:
+    - 前端开发
+    - JavaScript
     - 博客
 ---
 ## 上午
-上午在干嘛
+### 上午在干嘛
 
 ## 下午
 ### 下午没干嘛
