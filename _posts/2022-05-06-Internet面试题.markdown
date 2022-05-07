@@ -6,18 +6,10 @@ date:       2022-05-06
 author:     "YorkWong"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 前端开发
-    - JavaScript
     - 面试题
 ---
 
-# INTERNET/Browser
-
-<aside>
-📎 **DIRECTORY**
-
-</aside>
-
+# INTERNET/Browser关于网络的一些面试题
 # 🌟HTTP 和HTTPS
 
 相关链接： 
