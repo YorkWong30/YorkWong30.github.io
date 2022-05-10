@@ -36,3 +36,43 @@ c(yes,right)->e
 c(no,top)->op1()
 
 ```
+---
+发 http://www.example.com
+
+***
+- [x] **dddddd**
+- [ ] ddddd
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+```css
+.c{
+    a: 1,
+    b: 2
+}
+```
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+| Name | Age |
+| ---- | --- |
+| York | 24  |
+| Wong | 25  |
+
+---
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+---
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
