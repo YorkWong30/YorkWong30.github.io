@@ -6,7 +6,7 @@ date:       2022-05-06
 author:     "YorkWong"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 面试题
+    - Job Interview
 ---
 
 # INTERNET/Browser关于网络的一些面试题
