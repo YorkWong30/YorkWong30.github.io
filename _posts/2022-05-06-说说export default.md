@@ -2,7 +2,7 @@
 layout:     post
 title:      "说说export default"
 subtitle:   ""
-date:       2022-05-10
+date:       2022-05-06
 author:     "YorkWong"
 tags:
     - JS
