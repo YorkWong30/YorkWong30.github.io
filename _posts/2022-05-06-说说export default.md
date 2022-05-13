@@ -15,7 +15,6 @@ var nationData = [
 		{id:2 ,value:'蒙古族'},
 		{id:3 ,value:'回族'},
 		{id:4 ,value:'藏族'},
-		......
  
 ];
 
@@ -40,9 +39,10 @@ export和export default实现的功能相同
 import nationList  from '@/common/enum/nation.js'
 export default {
 
-	data() {
-		return {
-			nationList （注意一定要在data里面定义后才能用！！）
-     }
-  }
+    data() {
+        return {
+            nationList //（注意一定要在data里面定义后才能用！！）
+        }
+    }
+}
 ```
