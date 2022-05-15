@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852b069f-ab04-4a21-82e5-7ab0e8743179" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2022-05-13-初谈 非暴力沟通.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652441892903</updated>
       <workItem from="1652441894459" duration="6000" />
-      <workItem from="1652441916057" duration="2995000" />
+      <workItem from="1652441916057" duration="3822000" />
     </task>
     <servers />
   </component>
