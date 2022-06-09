@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="852b069f-ab04-4a21-82e5-7ab0e8743179" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-05-13-初谈 非暴力沟通.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-05-13-初谈 非暴力沟通.md" afterDir="false" />
-    </list>
+    <list default="true" id="852b069f-ab04-4a21-82e5-7ab0e8743179" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +53,7 @@
       <workItem from="1652441894459" duration="6000" />
       <workItem from="1652441916057" duration="3822000" />
       <workItem from="1652793875431" duration="1339000" />
+      <workItem from="1654746815575" duration="223000" />
     </task>
     <servers />
   </component>
@@ -72,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
