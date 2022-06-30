@@ -23,56 +23,6 @@ tags:
 - 面试题
 
 # 不足
-网站搭建于GITHUB的服务器之上，国内（大陆）访问可能会存在访问慢，访问失败的情况。电脑体验更佳。
+网站搭建于GITHUB的服务器之上，国内（大陆）访问可能会存在访问慢，访问失败的情况。
+电脑体验更佳。
 
-``` flow
-st=>start: 开始
-op1=>operation: My Operation
-c=>condition: Yes Or No?
-e=>end: 结束
-
-st(right)->op1(right->c
-c(yes,right)->e
-c(no,top)->op1()
-
-```
----
-发 http://www.example.com
-
-***
-- [x] **dddddd**
-- [ ] ddddd
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-```css
-.c{
-    a: 1,
-    b: 2
-}
-```
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-| Name | Age |
-| ---- | --- |
-| York | 24  |
-| Wong | 25  |
-
----
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
----
-|   	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
